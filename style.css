@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: black;
+    margin-left: 5%;
+}
+h2{
+    margin-left: 5%;
+}
+.forestgreen-color{
+    color: forestgreen;
+}
+.gray-color{
+    color: gray;
+}
+p{
+    font-size: 20px;
+    margin-left:5% ;
+}
+button{
+
+    text-decoration: none;
+    background-image: linear-gradient( orange, tomato);
+    margin-left: 5%;
+    padding: 10px 20px;
+    color: seashell;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+
+
+
+
